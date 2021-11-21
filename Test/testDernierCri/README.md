@@ -19,4 +19,6 @@
       - optimiser la commande d'import du flux au niveau des performances
   
 2:
-  
+  - Dans ton dossier local faire un git clone:
+  ```python
+    git clone git@github.com:Abensai/projects-public.git ./Test/testDernierCri
